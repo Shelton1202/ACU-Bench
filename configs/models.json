@@ -1,0 +1,44 @@
+{
+  "qwen3": {
+    "name": "Qwen3-8B",
+    "display": "Qwen3-8B",
+    "backend": "language",
+    "repo": "Qwen/Qwen3-8B",
+    "revision": "b968826d9c46dd6066d109eabc6255188de91218"
+  },
+  "tablegpt2": {
+    "name": "TableGPT2-7B",
+    "display": "TableGPT2-7B",
+    "backend": "language",
+    "repo": "tablegpt/TableGPT2-7B",
+    "revision": "c0ef9cb136c28f3617d51e1900e474ffb780037c"
+  },
+  "aurora": {
+    "name": "Aurora",
+    "display": "Aurora",
+    "backend": "aurora",
+    "repo": "DecisionIntelligence/Aurora",
+    "revision": "c495b02c1b151be52a3c174237ed240aa66e6384"
+  },
+  "timeomni": {
+    "name": "TimeOmni-1-7B",
+    "display": "TimeOmni-1-7B",
+    "backend": "language",
+    "repo": "anton-hugging/TimeOmni-1-7B",
+    "revision": "22ae9bf80572bd309d5926b66d608754c53172a0"
+  },
+  "doublecast": {
+    "name": "DoubleCast",
+    "display": "DoubleCast",
+    "backend": "doublecast",
+    "repo": "ServiceNow/DoubleCast",
+    "revision": "1ad1015e7ddd958d4679ed3255361606bdeafcca"
+  },
+  "timebraid": {
+    "name": "TimeBraid-2.5B",
+    "display": "TimeBraid-2.5B",
+    "backend": "timebraid",
+    "repo": "XinyueWangg/TimeBraid-2.5B",
+    "revision": "fc006f68b54dc462dad6b33de74306406cbba465"
+  }
+}
